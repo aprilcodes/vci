@@ -1,2 +1,2 @@
 # vci
-VCI data &amp; stats
+VCI readme file
